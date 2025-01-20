@@ -11,7 +11,7 @@ class LidarNode(Node):
     def __init__(self):
         super().__init__('lidar_node')
         self.publisher = self.create_publisher(ROS2PointCloud2, 'lidar_data', 10)
-
+ 
         # Paths to .mcap files
         self.pointcloud_mouse = "pointcloud_mouse.mcap"
         self.pointcloud_map = "pointcloud_map.mcap"
