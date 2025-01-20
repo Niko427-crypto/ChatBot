@@ -1,0 +1,34 @@
+[0.757s] Invoking command in '/home/sori/mouse_detection_ws/src/lidar_node': PYTHONPATH=/home/sori/mouse_detection_ws/build/lidar_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sori/mouse_detection_ws/install/lidar_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lidar_node build --build-base /home/sori/mouse_detection_ws/build/lidar_node/build install --record /home/sori/mouse_detection_ws/build/lidar_node/install.log --single-version-externally-managed
+[0.960s] running egg_info
+[0.962s] creating ../../build/lidar_node/lidar_node.egg-info
+[0.962s] writing ../../build/lidar_node/lidar_node.egg-info/PKG-INFO
+[0.962s] writing dependency_links to ../../build/lidar_node/lidar_node.egg-info/dependency_links.txt
+[0.962s] writing entry points to ../../build/lidar_node/lidar_node.egg-info/entry_points.txt
+[0.962s] writing requirements to ../../build/lidar_node/lidar_node.egg-info/requires.txt
+[0.962s] writing top-level names to ../../build/lidar_node/lidar_node.egg-info/top_level.txt
+[0.962s] writing manifest file '../../build/lidar_node/lidar_node.egg-info/SOURCES.txt'
+[0.965s] reading manifest file '../../build/lidar_node/lidar_node.egg-info/SOURCES.txt'
+[0.965s] writing manifest file '../../build/lidar_node/lidar_node.egg-info/SOURCES.txt'
+[0.966s] running build
+[0.966s] running build_py
+[0.966s] creating /home/sori/mouse_detection_ws/build/lidar_node/build
+[0.966s] creating /home/sori/mouse_detection_ws/build/lidar_node/build/lib
+[0.966s] creating /home/sori/mouse_detection_ws/build/lidar_node/build/lib/lidar_node
+[0.966s] copying lidar_node/lidar_node.py -> /home/sori/mouse_detection_ws/build/lidar_node/build/lib/lidar_node
+[0.967s] copying lidar_node/__init__.py -> /home/sori/mouse_detection_ws/build/lidar_node/build/lib/lidar_node
+[0.969s] copying lidar_node/lidar_node_v1.py -> /home/sori/mouse_detection_ws/build/lidar_node/build/lib/lidar_node
+[0.969s] running install
+[0.969s] running install_lib
+[0.970s] creating /home/sori/mouse_detection_ws/install/lidar_node/lib/python3.10/site-packages/lidar_node
+[0.970s] copying /home/sori/mouse_detection_ws/build/lidar_node/build/lib/lidar_node/lidar_node.py -> /home/sori/mouse_detection_ws/install/lidar_node/lib/python3.10/site-packages/lidar_node
+[0.970s] copying /home/sori/mouse_detection_ws/build/lidar_node/build/lib/lidar_node/__init__.py -> /home/sori/mouse_detection_ws/install/lidar_node/lib/python3.10/site-packages/lidar_node
+[0.970s] copying /home/sori/mouse_detection_ws/build/lidar_node/build/lib/lidar_node/lidar_node_v1.py -> /home/sori/mouse_detection_ws/install/lidar_node/lib/python3.10/site-packages/lidar_node
+[0.971s] byte-compiling /home/sori/mouse_detection_ws/install/lidar_node/lib/python3.10/site-packages/lidar_node/lidar_node.py to lidar_node.cpython-310.pyc
+[0.972s] byte-compiling /home/sori/mouse_detection_ws/install/lidar_node/lib/python3.10/site-packages/lidar_node/__init__.py to __init__.cpython-310.pyc
+[0.972s] byte-compiling /home/sori/mouse_detection_ws/install/lidar_node/lib/python3.10/site-packages/lidar_node/lidar_node_v1.py to lidar_node_v1.cpython-310.pyc
+[0.973s] running install_egg_info
+[0.974s] Copying ../../build/lidar_node/lidar_node.egg-info to /home/sori/mouse_detection_ws/install/lidar_node/lib/python3.10/site-packages/lidar_node-0.0.0-py3.10.egg-info
+[0.975s] running install_scripts
+[0.997s] Installing lidar_node script to /home/sori/mouse_detection_ws/install/lidar_node/lib/lidar_node
+[0.997s] writing list of installed files to '/home/sori/mouse_detection_ws/build/lidar_node/install.log'
+[1.015s] Invoked command in '/home/sori/mouse_detection_ws/src/lidar_node' returned '0': PYTHONPATH=/home/sori/mouse_detection_ws/build/lidar_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sori/mouse_detection_ws/install/lidar_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lidar_node build --build-base /home/sori/mouse_detection_ws/build/lidar_node/build install --record /home/sori/mouse_detection_ws/build/lidar_node/install.log --single-version-externally-managed

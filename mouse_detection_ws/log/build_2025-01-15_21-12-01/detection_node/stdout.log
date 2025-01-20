@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/detection_node/detection_node.egg-info
+writing ../../build/detection_node/detection_node.egg-info/PKG-INFO
+writing dependency_links to ../../build/detection_node/detection_node.egg-info/dependency_links.txt
+writing entry points to ../../build/detection_node/detection_node.egg-info/entry_points.txt
+writing requirements to ../../build/detection_node/detection_node.egg-info/requires.txt
+writing top-level names to ../../build/detection_node/detection_node.egg-info/top_level.txt
+writing manifest file '../../build/detection_node/detection_node.egg-info/SOURCES.txt'
+reading manifest file '../../build/detection_node/detection_node.egg-info/SOURCES.txt'
+writing manifest file '../../build/detection_node/detection_node.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/sori/mouse_detection_ws/build/detection_node/build
+creating /home/sori/mouse_detection_ws/build/detection_node/build/lib
+creating /home/sori/mouse_detection_ws/build/detection_node/build/lib/detection_node
+copying detection_node/detection_node.py -> /home/sori/mouse_detection_ws/build/detection_node/build/lib/detection_node
+copying detection_node/detection_node_previous.py -> /home/sori/mouse_detection_ws/build/detection_node/build/lib/detection_node
+copying detection_node/__init__.py -> /home/sori/mouse_detection_ws/build/detection_node/build/lib/detection_node
+copying detection_node/detection_node_v1.0.py -> /home/sori/mouse_detection_ws/build/detection_node/build/lib/detection_node
+running install
+running install_lib
+creating /home/sori/mouse_detection_ws/install/detection_node/lib/python3.10/site-packages/detection_node
+copying /home/sori/mouse_detection_ws/build/detection_node/build/lib/detection_node/detection_node.py -> /home/sori/mouse_detection_ws/install/detection_node/lib/python3.10/site-packages/detection_node
+copying /home/sori/mouse_detection_ws/build/detection_node/build/lib/detection_node/detection_node_previous.py -> /home/sori/mouse_detection_ws/install/detection_node/lib/python3.10/site-packages/detection_node
+copying /home/sori/mouse_detection_ws/build/detection_node/build/lib/detection_node/__init__.py -> /home/sori/mouse_detection_ws/install/detection_node/lib/python3.10/site-packages/detection_node
+copying /home/sori/mouse_detection_ws/build/detection_node/build/lib/detection_node/detection_node_v1.0.py -> /home/sori/mouse_detection_ws/install/detection_node/lib/python3.10/site-packages/detection_node
+byte-compiling /home/sori/mouse_detection_ws/install/detection_node/lib/python3.10/site-packages/detection_node/detection_node.py to detection_node.cpython-310.pyc
+byte-compiling /home/sori/mouse_detection_ws/install/detection_node/lib/python3.10/site-packages/detection_node/detection_node_previous.py to detection_node_previous.cpython-310.pyc
+byte-compiling /home/sori/mouse_detection_ws/install/detection_node/lib/python3.10/site-packages/detection_node/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/sori/mouse_detection_ws/install/detection_node/lib/python3.10/site-packages/detection_node/detection_node_v1.0.py to detection_node_v1.0.cpython-310.pyc
+running install_egg_info
+Copying ../../build/detection_node/detection_node.egg-info to /home/sori/mouse_detection_ws/install/detection_node/lib/python3.10/site-packages/detection_node-0.0.0-py3.10.egg-info
+running install_scripts
+Installing detection_node script to /home/sori/mouse_detection_ws/install/detection_node/lib/detection_node
+writing list of installed files to '/home/sori/mouse_detection_ws/build/detection_node/install.log'
