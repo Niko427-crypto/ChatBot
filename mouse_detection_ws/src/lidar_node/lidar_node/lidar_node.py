@@ -20,7 +20,7 @@ class LidarNode(Node):
         self.mqtt_broker = "1af86e820ce44ff190357e5093946b95.s1.eu.hivemq.cloud"
         self.mqtt_port = 8883
         self.mqtt_topic = "ros2/lidar_data"
-
+  
         # Initialize MQTT client
         self.mqtt_client = mqtt.Client(mqtt.CallbackAPIVersion.VERSION2)
         self.mqtt_client.tls_set()
